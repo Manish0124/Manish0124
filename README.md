@@ -26,7 +26,6 @@ I'm constantly expanding my knowledge and skills. Here’s what I’m focusing o
 ---
 
 ## 📊 GitHub Stats
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manish0124&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish0124&layout=compact&theme=radical)
 
 ---
