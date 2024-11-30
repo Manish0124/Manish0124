@@ -1,7 +1,7 @@
 # Hi there, I'm Manish Kumar 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manish0124&style=for-the-badge&color=blue)
-
+🌍 I'm Just a Developer with a passion for creating efficient, scalable web applications!  
 ---
 
 ## 🌐 Connect with Me
